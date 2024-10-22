@@ -1,0 +1,14 @@
+/Users/blertosmani/Desktop/DAAProvim/DAAProvim/bin/Debug/net8.0/DAAProvim
+/Users/blertosmani/Desktop/DAAProvim/DAAProvim/bin/Debug/net8.0/DAAProvim.deps.json
+/Users/blertosmani/Desktop/DAAProvim/DAAProvim/bin/Debug/net8.0/DAAProvim.runtimeconfig.json
+/Users/blertosmani/Desktop/DAAProvim/DAAProvim/bin/Debug/net8.0/DAAProvim.dll
+/Users/blertosmani/Desktop/DAAProvim/DAAProvim/bin/Debug/net8.0/DAAProvim.pdb
+/Users/blertosmani/Desktop/DAAProvim/DAAProvim/obj/Debug/net8.0/DAAProvim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blertosmani/Desktop/DAAProvim/DAAProvim/obj/Debug/net8.0/DAAProvim.AssemblyInfoInputs.cache
+/Users/blertosmani/Desktop/DAAProvim/DAAProvim/obj/Debug/net8.0/DAAProvim.AssemblyInfo.cs
+/Users/blertosmani/Desktop/DAAProvim/DAAProvim/obj/Debug/net8.0/DAAProvim.csproj.CoreCompileInputs.cache
+/Users/blertosmani/Desktop/DAAProvim/DAAProvim/obj/Debug/net8.0/DAAProvim.dll
+/Users/blertosmani/Desktop/DAAProvim/DAAProvim/obj/Debug/net8.0/refint/DAAProvim.dll
+/Users/blertosmani/Desktop/DAAProvim/DAAProvim/obj/Debug/net8.0/DAAProvim.pdb
+/Users/blertosmani/Desktop/DAAProvim/DAAProvim/obj/Debug/net8.0/DAAProvim.genruntimeconfig.cache
+/Users/blertosmani/Desktop/DAAProvim/DAAProvim/obj/Debug/net8.0/ref/DAAProvim.dll
